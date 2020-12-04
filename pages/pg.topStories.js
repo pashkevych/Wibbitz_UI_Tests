@@ -1,6 +1,6 @@
 let WebCompactBox = require("../web_controls/web.compactBox");
 let WebMediaContainer = require("../web_controls/web.mediaContainer");
-const { testData } = require("../../testData");
+const { testData } = require("../testData");
 
 const firstVideoElement = by.css('.simple-compact-box:first-of-type');
 const videoPage = by.css('.video-page');

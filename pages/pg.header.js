@@ -2,7 +2,7 @@ let WebDropdowns = require("../web_controls/web.dropdowns");
 let WebText = require("../web_controls/web.text");
 let WebTabs = require("../web_controls/web.tabs");
 let WebButtons = require("../web_controls/web.buttons");
-const { testData } = require("../../testData");
+const { testData } = require("../testData");
 
 const userAccountDropdown = by.css('.dropdown-arrow-container');
 const userAccountPanel = by.css('.user-account-panel-button');

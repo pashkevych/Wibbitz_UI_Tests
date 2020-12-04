@@ -1,4 +1,4 @@
-const { testData } = require("../../../testData");
+const { testData } = require("../../testData");
 let LoginPage = require("../../pages/pg.login");
 let HeaderPage = require("../../pages/pg.header");
 

@@ -1,5 +1,5 @@
 let WebButtons = require("../web_controls/web.buttons");
-const { testData } = require("../../testData");
+const { testData } = require("../testData");
 
 const videoPageCloseButton = by.css('[data-test-id=video-page-close-button]');
 

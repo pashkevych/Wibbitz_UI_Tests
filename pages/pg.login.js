@@ -1,6 +1,6 @@
 let WebInput = require("../web_controls/web.inputs");
 let WebButtons = require("../web_controls/web.buttons");
-const { testData } = require("../../testData");
+const { testData } = require("../testData");
 
 const emailField = by.id('1-email');
 const passwordField = by.css('[type = password]');
