@@ -1,0 +1,19 @@
+{
+  "name": "protractor_base_framework",
+  "version": "1.0.0",
+  "description": "Test automation framework based on Protractor",
+  "main": "conf.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pashkevych/Wibbitz_UI_Tests.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pashkevych/Wibbitz_UI_Tests/issues"
+  },
+  "homepage": "https://github.com/pashkevych/Wibbitz_UI_Tests#readme"
+}
